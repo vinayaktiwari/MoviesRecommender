@@ -1,3 +1,5 @@
+rust
+cargo
 streamlit
 altair==4.1.0
 argon2-cffi==20.1.0
@@ -60,7 +62,7 @@ pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz
 pypiwin32
-pypiwinpty
+pywinpty
 pyzmq
 requests
 Send2Trash
